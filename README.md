@@ -1,12 +1,13 @@
 <div align="center">
 
+<!-- Banner Dinámico de Bienvenida -->
 <img src="https://vercel.app" alt="Banner Anthonny" />
 
 ### Hi there 🕊️
 
 Hi, my name is Anthonny, I'm 16 years old and I program sometimes.
 
-<img src="https://githubusercontent.com" alt="Isaac" width="180" />
+<img src="./isaac.png" alt="Isaac" width="180" />
 
 </div>
 
